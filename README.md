@@ -32,7 +32,7 @@ This repository is both a **visual portfolio** and a **technical breakdown** of 
 ![Unity](https://img.shields.io/badge/Unity-6000.1.12f1-blue?logo=unity&logoColor=white)
 
 <p align="center">
-  <img src="Scenes\Env_002_Cliff\Preview.png" alt="Meadow preview" />
+  <img src="Scenes\Env_002_Cliff\Preview.png" alt="Cliff preview" />
 </p>
 
 **[View full breakdown →](Scenes\Env_002_Cliff\README.md)** 
