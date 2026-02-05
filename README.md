@@ -1,8 +1,6 @@
 # Unity-Scene-Showcase
 
-A showcase of **Unity scenes built in HDRP**, focusing on lighting, atmosphere, composition, and reproducible workflows.
-
-This repository is both a **visual portfolio** and a **technical breakdown** of how each scene was built – from blockout to final polish.
+A showcase of **Unity scenes built in HDRP**, focusing on lighting, atmosphere, composition, and reproducible workflows.This repository is both a **visual portfolio** and a **technical breakdown** of how each scene was built – from blockout to final polish.
 
 ---
 
@@ -22,7 +20,7 @@ This repository is both a **visual portfolio** and a **technical breakdown** of 
   <img src="Scenes\Env_001_Meadow\Preview.png" alt="Meadow preview" />
 </p>
 
-**[View full breakdown →](Scenes\Env_001_Meadow\README.md)**
+**[View full breakdown →](Scenes/Env_001_Meadow/README.md)**
 > *Simple scene, natural lighting, volumetric fog, landscape design, and VFX.*
 
 ---
@@ -35,7 +33,7 @@ This repository is both a **visual portfolio** and a **technical breakdown** of 
   <img src="Scenes\Env_002_Cliff\Preview.png" alt="Cliff preview" />
 </p>
 
-**[View full breakdown →](Scenes\Env_002_Cliff\README.md)** 
+**[View full breakdown →](Scenes/Env_002_Cliff/README.md)** 
 > *Natural lighting, volumetric fog, landscape design, and HDRP water, and VFX.*
 
 ---
