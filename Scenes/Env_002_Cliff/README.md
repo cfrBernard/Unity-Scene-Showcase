@@ -7,7 +7,7 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 ## 1. Blockout
 
 <p align="center">
-  <img src="Breakdown\Unity_I33mUKXeA8.png" alt="Cliff preview" />
+  <img src="Breakdown\Unity_I33mUKXeA8.png" alt="Blockout preview" />
 </p>
 
 **Goals:**
@@ -27,7 +27,7 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 ## 2. Terrain & Grass
 
 <p align="center">
-  <img src="Breakdown\Unity_pS0QvIzl6L.png" alt="Cliff preview" />
+  <img src="Breakdown\Unity_pS0QvIzl6L.png" alt="Terrain preview" />
 </p>
 
 **What was done:**
@@ -52,7 +52,7 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 ## 3. Rockwork
 
 <p align="center">
-  <img src="Breakdown\Unity_XcKZOwkBmV.png" alt="Cliff preview" />
+  <img src="Breakdown\Unity_XcKZOwkBmV.png" alt="Rockwork preview" />
 </p>
 
 **Technical workflow:**
@@ -74,12 +74,12 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 ## 4. Props
 
 <p align="center">
-  <img src="Breakdown\Unity_Z4iy5ZXxH6.png" alt="Cliff preview" />
+  <img src="Breakdown\Unity_Z4iy5ZXxH6.png" alt="Props preview" />
 </p>
 
 **Workflow:**
 
-- All textures converted to HDRP with **[MaskMapWizard](https://github.com/cfrBernard/maskmapwizard)**
+- Rock textures converted to HDRP with **[MaskMapWizard](https://github.com/cfrBernard/maskmapwizard)**
 - Placement focused on:
   - Guiding the eye toward the horizon
   - Adding foreground depth
@@ -101,13 +101,13 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 ## 5. HDRP Water
 
 <p align="center">
-  <img src="Breakdown\Unity_MnLaC3mWsr.png" alt="Cliff preview" />
+  <img src="Breakdown\Unity_MnLaC3mWsr.png" alt="Water preview" />
 </p>
 
 **Setup:**
 
 - HDRP Water System (Sea)
-- Shoreline foam enabled and tuned
+- Foam decals placed and tuned (Shoreline)
 - Wave deformation adjusted for scale and mood
 - Water color shifted warmer to match sunset lighting
 - Reflections balanced to avoid over-bright highlights
@@ -123,7 +123,7 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 ## 6. FX & Sound
 
 <p align="center">
-  <img src="Breakdown\Unity_mqkwnodx8v.png" alt="Cliff preview" />
+  <img src="Breakdown\Unity_mqkwnodx8v.png" alt="FX preview" />
 </p>
 
 **Lighting support:**
@@ -142,7 +142,7 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 
 **Birds VFX:**
 
-- Real-time flock using VFX Graph
+- Real-time flock using Shader Graph
 - Subtle random pathing + turbulence
 - Looping flight pattern across the horizon
 
@@ -153,7 +153,7 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 ## 7. Global Volume & Lighting
 
 <p align="center">
-  <img src="Breakdown\Unity_bG9WbkPTbH.png" alt="Cliff preview" />
+  <img src="Breakdown\Unity_bG9WbkPTbH.png" alt="Lighting preview" />
 </p>
 
 **Lighting:**
@@ -174,6 +174,7 @@ A warm sunset cliff overlooking the ocean – dense atmospheric fog, layered clo
 **Post-processing:**
 
 - Filmic tonemapping
+- Some lens flare
 - Gentle vignette
 - Slight bloom on sun highlights
 - Color grading toward warm/cinematic look
